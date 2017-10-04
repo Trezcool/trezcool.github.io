@@ -4,4 +4,4 @@
 /Gemfile.lock
 /_site/
 /help.txt
-/dev-tools/
+/dev-tools/node_modules/

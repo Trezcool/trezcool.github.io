@@ -1,9 +1,8 @@
 /*------------------------------------------------------------------
-  	[Footer]
+    [Trezcool Custom Styles]
 ------------------------------------------------------------------*/
 
-.footer {
-	.footer-logo {
-		@include size(76px, auto);
-	}
+.parallax-window {
+  min-height: 590px;
+  background: transparent;
 }
